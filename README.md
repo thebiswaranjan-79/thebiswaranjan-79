@@ -18,8 +18,23 @@ Here are some ideas to get you started:
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=30&center=true&vCenter=true&width=800&height=100&lines=Undergrad+%40+TAT+BBSR+%F0%9F%8E%93;Skilled+in+ReactJS%2C+NextJS%2C+TypeScript+%F0%9F%92%AA;FullStack+Developer+%F0%9F%92%BB;Problem+Solver+%F0%9F%8E%AF;500+DSA+%40+LeetCode+%26+GFG+%E2%9C%8D%F0%9F%8F%BC"></a>
 </p>
     
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-    
+
+
+- 🔭 I’m currently working on **Dev OverFlow**
+
+- 🌱 I’m currently learning **Next JS**
+
+- 💬 Ask me about **C++ , DSA , MERN**
+
+- 📫 How to reach me **mbiswaranjan794@gmail.com**
+
+- ⚡ Fun fact **I am Funny**
+
+    <br>
+    <br> <br>
+    <br>
 <!--Languages and Tools Section-->       
 <h2 align="center">Lᴀɴɢᴜᴀɢᴇs</h2> 
 <p align="center">
